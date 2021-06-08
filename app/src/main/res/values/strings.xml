@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Beranda</string>
+    <string name="home_title">Budaya Kalbar</string>
+    <string name="suku">Suku</string>
+    <string name="kuliner">Kuliner</string>
+    <string name="lagu">Lagu</string>
+    <string name="kuis">Kuis</string>
+    <string name="dayak">Dayak</string>
+    <string name="smelayu">Melayu</string>
+    <string name="sjawa">Jawa</string>
+    <string name="stionghoa">Tionghoa</string>
+    <string name="smadura">Madura</string>
+    <string name="sbugis">Bugis</string>
+
+    <string name="detail_dayak">Dayak merupakan kelompok masyarakat yang besar di Kalimantan Barat.
+        Besar dari sisi jumlah, persebaran dan peranannya. Dari sisi jumlah, walaupun tidak ada angka resmi,
+        bilangan komunitas ini mencapai 30-40 persen dari total penduduk Kalbar, dan memiliki 151 subsuku dan 100 subsubsuku.
+        Sedangkan dari sisi persebaran, Dayak tersebar di semua wilayah kabupaten, di pesisir dan pedalaman. Konsentrasi terbesar ada di kabupaten Landak,
+        Sanggau, dan Bengkayang. Istilah Dayak digunakan pertama kali oleh Rademaker tahun 1790 untuk menyebut komunitas yang sekarang dikenal sebagai pribumi
+        yang beragama bukan Islam. Istilah ini sejajar dengan penggunaan istilah Melayu untuk penduduk yang beragama Islam. Meskipun menolak menggunakan identitas
+        Dayak, tetapi kalangan tertentu dari orang yang disebut Dayak itu melihat ada satu ikatan emosional yang bisa dipakai untuk menyatukan kekuatan politik pribumi
+        bukan Islam.
+    </string>
+    <string name="pakaian_tradisional">Pakaian Tradisional</string>
+    <string name="detail_pakaian_tradisional_dayak">King Baba merupakan pakaian tradisional untuk laki-laki suku Dayak yang menempati Kalimantan Barat. Sementara itu pakaian tradisional untuk perempuan adalah
+        King Bibinge. Pakaian tradisional King Baba berbentuk seperti rompi yang menggunakan kain khas terbuat dari kulit kayu kapuo serta dihiasi manik-manik berwarna jingga dan
+        merah. Sedangkan untuk pakaian tradisional perempuan King Bibinge terbuat dari bahan yang sama tapi menutupi hingga bagian dada dan pundak. Pakaian tradisional tersebut sudah dipakai
+        secara turun temurun dan menjadi identitas masyarakat Dayak. Hingga sekarang pakaian tradisional tersebut masih terus dipergunakan dalam berbagai kegiatan, seperti upacara
+        sosial atau keagamaan masyarakat.
+    </string>
+    <string name="senjata_tradisional">Senjata Tradisional</string>
+    <string name="detail_senjata_tradisional_dayak">Senjata tradisional suku Dayak salah satunya adalah mandau. Mandau berbentuk panjang, terbuat dari bahan pilihan yang diambil dari batu
+        gunung yang mengandung besi. Senjata ini memiliki hiasan berupa bulu rangkong atau rambut manusia yang diletakkan di atas mandau yang terbuat dari tanduk atau kayu.
+        Mandau sendiri bisa dikatakan sebuah senjata yang memiliki level keampuhan atau kekuatan gaib. Kekuatan sihir itu tidak hanya diperoleh dari proses pembuatannya melalui ritual
+        tertentu, tetapi juga dalam tradisi head hunting (pemenggalan lawan).</string>
+    <string name="rumah_adat">Rumah Adat</string>
+    <string name="detail_rumah_adat_dayak">Rumah adat Betang Radakng merupakan rumah tradisional khas Kalimantan Barat yang berlokasi di Sungai Bangkong, Kec. Pontianak Kota, Kota Pontianak. Rumah adat ini
+        juga disebut dengan nama rumah betang atau rumah panjang. Nama ini diambil dari bahasa suku Dayak. Dirancang khusus, rumah adat ini bisa menampung penghuni hingga 600 orang pada bagian
+        ruang utamanya dengan panjang sekitar 138 meter dengan tinggi 7 meter. Dilengkapi dengan halaman luas sehingga dijadikan sebagai pusat pertunjukkan hingga budaya lokal lengkap dengan ciri
+        khas Dayak yang kental.</string>
+    <string name="melayu">Melayu</string>
+    <string name="detail_melayu">Melayu merupakan suku mayoritas yang menetap di Kalimantan Barat selain suku Dayak. Melayu digunakan untuk menyebut identitas penduduk Kalimantan Barat yang beragama Islam.
+        Di Kalimantan Barat sendiri teridentifikasi setidaknya 13 kerajaan atau pertuanan Melayu, mulai dari Pontianak, Sambas, Mempawah, Ketapang, Sukadana, hingga Landak dan Sintang</string>
+    <string name="detail_pakaian_tradisional_melayu">Teluk Belanga merupakan pakaian tradisional suku Melayu yang biasanya dikenakan untuk acara-acara resmi seperti pesta pernikahan maupun upacara adat.
+        Pakaian satu ini terdiri dari pakaian dalam terbuat dari bahan satin yang umumnya memiliki warna kuning emas. Dimana warna tersebut identik dengan kerajayaan Melayu.
+        Bagi suku Melayu, warna yang dikenakan memiliki makna sendiri. Dan kuning emas menjadi warna yang paling banyak digunakan oleh suku Melayu. </string>
+    <string name="detail_senjata_tradisional_melayu">Sundang merupakan senjata tradisional suku Melayu yang cukup terkenal. Sundang tidak digunakan untuk menikam seperti sifat keris, ia lebih kepada melilit,
+        menebas dan melibas. Sundang biasa digunakan oleh raja pada zaman dahulu.</string>
+    <string name="detail_rumah_adat_melayu">Suku Melayu memiliki rumah adat yang bentuknya rumah panggung dan bisa ditemui di Pontianak. Rumah Adat Melayu merupakan salah satu rumah khas Melayu yang dijadikan sebagai
+        Balai Kerja yang fungsinya untuk sekretarian pertemuan Balai Rakyat, kios penjualan dan juga taman bermain. Masing masing ruangan memiliki fungsi yang berbeda, mulai dari penginapan hingga acara adat.</string>
+    <string name="jawa">Jawa</string>
+    <string name="detail_jawa">Suku Jawa merupakan salah satu suku yang menetap di Kalimantan Barat dengan populasi sebesar 8% serta sebagian besar memeluk agama Islam dan Kristen. Suku Jawa telah menjalin kerukunan antarsuku dan  melalui
+        wadah yang dibuat oleh .</string>
+    <string name="detail_pakaian_tradisional_jawa">Batik adalah pakaian tradisional dari Jawa yang sangat mendunia. Batik terdiri dari berbagai macam motif. Motif dari batik sendiri dipengaruhi oleh kondisi geografis dan budaya dari masyarakat setempat.</string>
+    <string name="detail_senjata_tradisional_jawa">Keris merupakan senjata tradisional Jawa yang kini dipakai sebagai koleksi seni hingga benda spiritual. Berbeda dengan senjata tradisional jenis lain, keris memiliki bentuk, pola, serta ukiran yang membuatnya semakin unik.
+        Berbahan dasar potongan kayu, emas, hingga gading langka, keris seringkali dianggap memiliki kekuatan magis di sekitarnya.</string>
+    <string name="detail_rumah_adat_jawa">Rumah Joglo atau rumah adat Jawa di Kalimantan Barat terletak di Kabupaten Ketapang yang dibiayai oleh Pemkab Ketapang melalui Dinas Pariwasata dan Kebudayaan. Rumah adat ini merupakan sebuah kebanggaan masyarakat
+        Jawa di Kabupaten Ketapang</string>
+    <string name="tionghoa">Tionghoa</string>
+    <string name="detail_tionghoa">Tionghua merupakan kelompok ketiga terbanyak yang menetap di Kalimantan Barat dengan persebaran terbesar terletak di Singkawang. Etnis Tionghua di Kalimantan Barat memiliki
+        beberapa bahasa yaitu Hokkien, Teo-Chiu, Hakka dan Kanton. Kebudayaan masyarakat Tionghoa di Kalimantan Barat seiring waktu mengalami penyesuaian dengan lingkungan setempat sehingga menimbulkan rasa toleransi antarsuku.</string>
+    <string name="detail_pakaian_tradisional_tionghoa">Cheongsam adalah pakaian tradisional khas Tionghoa yang jadi simbol kedudukan sosial kaum perempuan. Pakaian yang dibuat pada tahun 1920 ini, adalah pakaian yang sering dikenakan wanita
+        Tionghoa berkedudukan sosial tinggi. Sedangkan Changshan diartikan sebagai pakaian panjang yang dulunya menjadi salah satu pakaian resmi yang banyak digunakan oleh kaum laki-laki untuk menghadiri beberapa acara. Cheongsam dan Changshan identik dikenakan saat Imlek,
+        keduanya memberikan ciri khas untuk keturunan Tionghoa. Selain modelnya yang unik, pakaian ini juga memiliki desain yang sangat kental dengan pakaian tradisional Tiongkok.</string>
+    <string name="perayaan_tionghoa">Perayaan</string>
+    <string name="detail_perayaan_tionghoa">Keunikan dari perayaan kebudayaan Tionghoa di Kalimantan Barat yaitu terdapat parade atraksi kesaktian warga Dayak-Tionghoa dalam merayakan Cap Go Meh, perayaan yang dilakukan pasca Hari Raya Imlek. Atraksi yang diberi nama pawai tatung ini
+        mengikuti tradisi Tionghoa yang berbaur dengan budaya Dayak yang hanya bisa disaksikan di Singkawang, Kalimantan Barat.</string>
+    <string name="bangunan_tionghoa">Rumah Tjhia</string>>
+    <string name="detail_bangunan_tionghoa">Rumah  Tjhia merupakan salah satu cagar budaya di Kota Singkawang. Bangunan yang tetap kokoh hingga kini, meski sudah ada sejak 1902. Bangunan tersebut lokasinya berada di jalan Budi Utomo No. 35, Condong, Singkawang Barat, Kalimantan Barat.
+        Rumah dua lantai itu dibangun dengan kombinasi desain Timur dan Barat serta memiliki dua ruangan besar pada bagian depan dan belakangnya. Hampir di setiap ruangan terdapat ukiran dan kaligrafi.</string>
+    <string name="madura">Madura</string>
+    <string name="detail_madura">Suku Madura merupakan salah satu suku yang bertransmigrasi ke Kalimantan Barat. Di Kalimantan Barat sendiri suku Madura pernah mengalami kerusuhan etnis yang disebabkan oleh kesenjangan sosial, tetapi sekarang kesenjangan itu sudah mereda dan etnis Madura
+        dan penduduk setempat sudah rukun kembali. Mayoritas masyarakat suku Madura hampir semuanya menganut agama Islam serta sangat taat dalam mendalaminya, seperti halnya suku Melayu atau suku Bugis yang juga sangat menjunjung agama Islam dalam kehidupan sehari-hari.</string>
+    <string name="detail_pakaian_tradisional_madura">Pakaian tradisional suku Madura bernama Pesa’an. Di beberapa daerah di Kalimantan Barat seperti Pontianak, Pesa’an jarang digunakan terkecuali untuk acara pernikahan atau acara khusus. Pakaian yang diperuntukkan bagi kaum pria
+        Madura ini terdiri atas celana longgar dan kaos bergaris merah putih sehingga terkesan sangat sederhana, sementara untuk kaum wanita biasanya menggunakan kebaya dengan warna cerah yang mencolok.</string>
+    <string name="detail_senjata_tradisional_madura">Clurit merupakan senjata khas dari suku Madura. Bentuk Clurit terlihat sama dengan arit/sabit, namun Clurit lebih mengacu pada senjata tajam sedangkan Arit atau Sabit cenderung bersifat sebagai alat pertanian.</string>
+    <string name="rumah_budaya">Rumah Budaya</string>
+    <string name="detail_rumah_budaya">Rumah Budaya didirikan oleh Ikatan Keluarga Besar Madura (IKBM) Kalbar yang dibangun dengan kekhasan rumah adat di Madura pada umumnya yaitu Tanean Lanjhang. Rumah Budaya Tanean Lanjhang (halaman panjang) merupakan representatif dari masyarakat madura
+        yang sangat menjunjung tinggi nilai persaudaraan. Rumah Budaya Madura ini terletak di Jalan Selat Panjang II, Kecamatan Pontianak Utara. Kelak di tempat inilah generasi muda Madura di Kalimantan Barat akan terus melestarikan kebudayaan Madura yang adiluhung.</string>
+    <string name="bugis">Bugis</string>
+    <string name="detail_bugis">Bugis merupakan suku yang terlebih dahulu berada dan bertempat tinggal di Kalimantan Barat. Etnis Bugis kebanyakan menetap di Desa Punggur Kecil, Kecamatan Sungai Kakap, Kabupaten Kubu Raya dengan mayoritas memeluk agama Islam.</string>
+    <string name="detail_pakaian_tradisional_bugis">Pakaian tradisional Tutu ini dilengkapi dengan celana kain dan lipa garusuk. Sementara untuk hiasan kepala menggunakan songkok. Ciri khas Tutu yaitu lengan panjang, berkerah, serta kancing berwarna emas atau perak. Hiasan ini sengaja dipasang untuk
+        menambah daya tarik pakaian secara keseluruhan. Pakaian ini biasanya digunakan untuk menghadiri acara penting.</string>
+    <string name="detail_senjata_tradisional_bugis">Tappi adalah keris asal Suku Bugis. Tappi memiliki bilah bermata dua yang berkelok-kelok dan meruncing dari pangkal ke ujungnya. Di Kalimantan Barat, suku Bugis masih menyimpan senjata tersebut sebagai koleksi budaya.</string>
+    <string name="detail_rumah_adat_bugis">Rumah Adat Saoraja di Kalimantan Barat masih dalam tahap pembangunan. Diharapkan berdirinya rumah adat ini dapat melestarikan serta memperkenalkan budaya suku Bugis di Kalimantan Barat. </string>
+    
+    <string name="bubur_pedas">Bubur Pedas</string>
+    <string name="chai_kwe">Chai Kwe</string>
+    <string name="che_hun_tiau">Che Hun Tiau</string>
+    <string name="kiam_ko_kwe">Kiam Ko Kwe</string>
+    <string name="kue_kantong_semar">Kue Kantong Semar</string>
+    <string name="kwetiau">Kwetiau</string>
+    <string name="lek_tau_swan">Lek Tau Swan</string>
+    <string name="pengkang">Pengkang</string>
+    <string name="sagu_gunting">Sagu_Gunting</string>
+    <string name="sotong_pangkong">Sotong Pangkong</string>
+</resources>
