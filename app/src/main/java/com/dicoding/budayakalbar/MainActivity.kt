@@ -13,9 +13,13 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         val cardSuku: CardView = findViewById(R.id.cv_suku)
         val cardKuliner: CardView = findViewById(R.id.cv_kuliner)
+        val cardLagu: CardView = findViewById(R.id.cv_lagu)
+        val cardKuis: CardView = findViewById(R.id.cv_kuis)
 
         cardSuku.setOnClickListener(this)
         cardKuliner.setOnClickListener(this)
+        cardLagu.setOnClickListener(this)
+        cardKuis.setOnClickListener(this)
     }
 
     override fun onClick(v: View) {
@@ -26,6 +30,14 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             }
             R.id.cv_kuliner -> {
                 val moveIntent = Intent(this@MainActivity, KulinerActivity::class.java)
+                startActivity(moveIntent)
+            }
+            R.id.cv_lagu -> {
+                val moveIntent = Intent(this@MainActivity, LaguActivity::class.java)
+                startActivity(moveIntent)
+            }
+            R.id.cv_kuis -> {
+                val moveIntent = Intent(this@MainActivity, KuisActivity::class.java)
                 startActivity(moveIntent)
             }
         }

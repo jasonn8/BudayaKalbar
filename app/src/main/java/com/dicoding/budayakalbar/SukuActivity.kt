@@ -24,8 +24,6 @@ class SukuActivity : AppCompatActivity() {
     lateinit var imageRumah: Array<Int>
     lateinit var detailRumah: Array<String>
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_suku)
@@ -140,9 +138,6 @@ class SukuActivity : AppCompatActivity() {
             getString(R.string.detail_rumah_adat_bugis)
         )
 
-
-
-
         sukuRecyclerView = findViewById(R.id.sukuRecyclerView)
         sukuRecyclerView.layoutManager = LinearLayoutManager(this)
         sukuRecyclerView.setHasFixedSize(true)
@@ -157,9 +152,9 @@ class SukuActivity : AppCompatActivity() {
             sukuArrayList.add(suku)
         }
 
-        var adapter = SukuAdapter(sukuArrayList)
+        var adapter = MyAdapter(sukuArrayList)
         sukuRecyclerView.adapter = adapter
-        adapter.setOnItemClickListener(object : SukuAdapter.onItemClickListener {
+        adapter.setOnItemClickListener(object : MyAdapter.onItemClickListener {
             override fun onItemClick(position: Int) {
                 val intent = Intent(this@SukuActivity, DetailSukuActivity::class.java)
                 intent.putExtra("heading", sukuArrayList[position].heading)
@@ -175,10 +170,6 @@ class SukuActivity : AppCompatActivity() {
                 intent.putExtra("imageRumah", imageRumah[position])
                 intent.putExtra("detailRumah", detailRumah[position])
                 startActivity(intent)
-
-
-
-
             }
         })
     }

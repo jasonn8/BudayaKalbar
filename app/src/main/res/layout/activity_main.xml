@@ -12,18 +12,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="@string/home_title"
+        android:text="Budaya Kalbar"
         android:textColor="@color/white"
+        android:textStyle="bold"
         android:textSize="30sp"
         android:layout_marginTop="12dp"/>
-    
+
     <GridLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/title_view"
+        android:layout_below="@+id/title_view"
         android:rowCount="3"
-        android:columnCount="2"
-        android:layout_margin="20dp">
+        android:columnCount="2">
 
         <androidx.cardview.widget.CardView
             android:id="@+id/cv_suku"
@@ -46,16 +46,15 @@
                 android:layout_gravity="center_vertical|center_horizontal">
 
                 <ImageView
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
-                    android:src="@drawable/suku"
-                    android:scaleType="centerCrop"/>
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/suku"/>
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/suku"
+                    android:text="Suku"
                     android:textStyle="bold"
-                    android:textSize="20sp"
                     android:textAlignment="center"/>
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -81,16 +80,15 @@
                 android:layout_gravity="center_vertical|center_horizontal">
 
                 <ImageView
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
-                    android:src="@drawable/kuliner"
-                    android:scaleType="centerCrop"/>
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/kuliner_beranda"/>
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/kuliner"
+                    android:text="Kuliner"
                     android:textStyle="bold"
-                    android:textSize="20sp"
                     android:textAlignment="center"/>
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -116,16 +114,15 @@
                 android:layout_gravity="center_vertical|center_horizontal">
 
                 <ImageView
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
-                    android:src="@drawable/lagu"
-                    android:scaleType="centerCrop"/>
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/lagu"/>
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/lagu"
+                    android:text="Lagu"
                     android:textStyle="bold"
-                    android:textSize="20sp"
                     android:textAlignment="center"/>
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -151,23 +148,18 @@
                 android:layout_gravity="center_vertical|center_horizontal">
 
                 <ImageView
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
-                    android:src="@drawable/kuis"
-                    android:scaleType="centerCrop"/>
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/kuis"/>
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/kuis"
+                    android:text="Kuis"
                     android:textStyle="bold"
-                    android:textSize="20sp"
                     android:textAlignment="center"/>
             </LinearLayout>
         </androidx.cardview.widget.CardView>
-
-
     </GridLayout>
-
-
 
 </RelativeLayout>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Beranda</string>
+    <string name="app_name">Budaya Kalbar</string>
     <string name="home_title">Budaya Kalbar</string>
     <string name="suku">Suku</string>
     <string name="kuliner">Kuliner</string>
@@ -50,14 +50,14 @@
         Balai Kerja yang fungsinya untuk sekretarian pertemuan Balai Rakyat, kios penjualan dan juga taman bermain. Masing masing ruangan memiliki fungsi yang berbeda, mulai dari penginapan hingga acara adat.</string>
     <string name="jawa">Jawa</string>
     <string name="detail_jawa">Suku Jawa merupakan salah satu suku yang menetap di Kalimantan Barat dengan populasi sebesar 8% serta sebagian besar memeluk agama Islam dan Kristen. Suku Jawa telah menjalin kerukunan antarsuku dan  melalui
-        wadah yang dibuat oleh .</string>
+        wadah yang dibuat oleh Paguyuban Jawa Kalimantan Barat.</string>
     <string name="detail_pakaian_tradisional_jawa">Batik adalah pakaian tradisional dari Jawa yang sangat mendunia. Batik terdiri dari berbagai macam motif. Motif dari batik sendiri dipengaruhi oleh kondisi geografis dan budaya dari masyarakat setempat.</string>
     <string name="detail_senjata_tradisional_jawa">Keris merupakan senjata tradisional Jawa yang kini dipakai sebagai koleksi seni hingga benda spiritual. Berbeda dengan senjata tradisional jenis lain, keris memiliki bentuk, pola, serta ukiran yang membuatnya semakin unik.
         Berbahan dasar potongan kayu, emas, hingga gading langka, keris seringkali dianggap memiliki kekuatan magis di sekitarnya.</string>
     <string name="detail_rumah_adat_jawa">Rumah Joglo atau rumah adat Jawa di Kalimantan Barat terletak di Kabupaten Ketapang yang dibiayai oleh Pemkab Ketapang melalui Dinas Pariwasata dan Kebudayaan. Rumah adat ini merupakan sebuah kebanggaan masyarakat
         Jawa di Kabupaten Ketapang</string>
     <string name="tionghoa">Tionghoa</string>
-    <string name="detail_tionghoa">Tionghua merupakan kelompok ketiga terbanyak yang menetap di Kalimantan Barat dengan persebaran terbesar terletak di Singkawang. Etnis Tionghua di Kalimantan Barat memiliki
+    <string name="detail_tionghoa">Tionghua merupakan kelompok keempat terbanyak yang menetap di Kalimantan Barat dengan persebaran terbesar terletak di Singkawang. Etnis Tionghua di Kalimantan Barat memiliki
         beberapa bahasa yaitu Hokkien, Teo-Chiu, Hakka dan Kanton. Kebudayaan masyarakat Tionghoa di Kalimantan Barat seiring waktu mengalami penyesuaian dengan lingkungan setempat sehingga menimbulkan rasa toleransi antarsuku.</string>
     <string name="detail_pakaian_tradisional_tionghoa">Cheongsam adalah pakaian tradisional khas Tionghoa yang jadi simbol kedudukan sosial kaum perempuan. Pakaian yang dibuat pada tahun 1920 ini, adalah pakaian yang sering dikenakan wanita
         Tionghoa berkedudukan sosial tinggi. Sedangkan Changshan diartikan sebagai pakaian panjang yang dulunya menjadi salah satu pakaian resmi yang banyak digunakan oleh kaum laki-laki untuk menghadiri beberapa acara. Cheongsam dan Changshan identik dikenakan saat Imlek,
@@ -73,7 +73,7 @@
         dan penduduk setempat sudah rukun kembali. Mayoritas masyarakat suku Madura hampir semuanya menganut agama Islam serta sangat taat dalam mendalaminya, seperti halnya suku Melayu atau suku Bugis yang juga sangat menjunjung agama Islam dalam kehidupan sehari-hari.</string>
     <string name="detail_pakaian_tradisional_madura">Pakaian tradisional suku Madura bernama Pesa’an. Di beberapa daerah di Kalimantan Barat seperti Pontianak, Pesa’an jarang digunakan terkecuali untuk acara pernikahan atau acara khusus. Pakaian yang diperuntukkan bagi kaum pria
         Madura ini terdiri atas celana longgar dan kaos bergaris merah putih sehingga terkesan sangat sederhana, sementara untuk kaum wanita biasanya menggunakan kebaya dengan warna cerah yang mencolok.</string>
-    <string name="detail_senjata_tradisional_madura">Clurit merupakan senjata khas dari suku Madura. Bentuk Clurit terlihat sama dengan arit/sabit, namun Clurit lebih mengacu pada senjata tajam sedangkan Arit atau Sabit cenderung bersifat sebagai alat pertanian.</string>
+    <string name="detail_senjata_tradisional_madura">Celurit merupakan senjata khas dari suku Madura. Bentuk Celurit terlihat sama dengan arit/sabit, namun celurit lebih mengacu pada senjata tajam sedangkan arit atau sabit cenderung bersifat sebagai alat pertanian.</string>
     <string name="rumah_budaya">Rumah Budaya</string>
     <string name="detail_rumah_budaya">Rumah Budaya didirikan oleh Ikatan Keluarga Besar Madura (IKBM) Kalbar yang dibangun dengan kekhasan rumah adat di Madura pada umumnya yaitu Tanean Lanjhang. Rumah Budaya Tanean Lanjhang (halaman panjang) merupakan representatif dari masyarakat madura
         yang sangat menjunjung tinggi nilai persaudaraan. Rumah Budaya Madura ini terletak di Jalan Selat Panjang II, Kecamatan Pontianak Utara. Kelak di tempat inilah generasi muda Madura di Kalimantan Barat akan terus melestarikan kebudayaan Madura yang adiluhung.</string>
@@ -83,7 +83,7 @@
         menambah daya tarik pakaian secara keseluruhan. Pakaian ini biasanya digunakan untuk menghadiri acara penting.</string>
     <string name="detail_senjata_tradisional_bugis">Tappi adalah keris asal Suku Bugis. Tappi memiliki bilah bermata dua yang berkelok-kelok dan meruncing dari pangkal ke ujungnya. Di Kalimantan Barat, suku Bugis masih menyimpan senjata tersebut sebagai koleksi budaya.</string>
     <string name="detail_rumah_adat_bugis">Rumah Adat Saoraja di Kalimantan Barat masih dalam tahap pembangunan. Diharapkan berdirinya rumah adat ini dapat melestarikan serta memperkenalkan budaya suku Bugis di Kalimantan Barat. </string>
-    
+
     <string name="bubur_pedas">Bubur Pedas</string>
     <string name="chai_kwe">Chai Kwe</string>
     <string name="che_hun_tiau">Che Hun Tiau</string>
@@ -92,6 +92,26 @@
     <string name="kwetiau">Kwetiau</string>
     <string name="lek_tau_swan">Lek Tau Swan</string>
     <string name="pengkang">Pengkang</string>
-    <string name="sagu_gunting">Sagu_Gunting</string>
     <string name="sotong_pangkong">Sotong Pangkong</string>
+
+    <string name="detail_bubur_pedas">Bubur pedas khas Pontianak pertama kali ditemukan oleh suku Melayu Sambas yang tinggal di pesisir pantai dikawasan Pontianak ibukota provinsi Kalimantan Barat dan kemudian dipopulerkan sebagai makanan khas Pontianak. Kuliner satu ini menarik minat pengunjung untuk datang ke Pontianak dan merasakan kelezatan Bubur Pedas Di Pontianak.
+        Teksturnya lembut dan rasanya gurih, lezat untuk disantap.</string>
+    <string name="detail_chai_kwe">Chai kwe merupakan makanan khas Pontianak yang berasal dari etnis Tionghua. Chai kwe dibuat dari tepung kanji dan tepung beras yang diaduk dengan air panas hingga kalis. Umumnya penjual chai kwe membuat adonan sesaat akan disajikan. Mereka tak pernah membuat stok karena harus segar dan hangat. Sementara jika dibiarkan terlalu lama
+        adonan kulit akan mengering sehingga tak bisa dipakai lagi. Adonan tepung kemudian dibentuk bola-bola dan dipipihkan hingga bundar. Selanjutnya diisi dengan irisan halus kucai, bengkuang, talas, rebung, kacang dan daun bawang. Sayuran ini sudah diberi sedikit bumbu. Kulit adonan dilipat dua berbentuk setengah lingkaran atau bulan sabit, mirip pastel.</string>
+    <string name="detail_che_hun_tiau">Che hun tiau atau sagu gunting merupakan makanan khas Kalimantan Barat dari etnis Tionghua yang setiap katanya memiliki arti che berarti ubi, hun artinya tepung dan tiau artinya balok yang mana merujuk pada bahan utamanya yakni adonan putih susu panjang seperti mie yang dibuat dari tepung sagu. Racikan che hun tiau ini terdiri dari che hun tiau, bubur ketan hitam,
+        kacang merah, cincau, dan bongko. Dilengkapi sirup dan es batu serta santan yang sudah direbus matang.</string>
+    <string name="detail_kiam_ko_kwe">Kiam ko kue adalah salah satu kue tradisional khas Pontianak. Kiam ko kwe terbuat dari potongan adonan tepung beras yang dipotong kotak-kotak. Ditumis dengan bawang dan ebi, diberi bumbu kecap, merica, garam dan ditambahkan telur. Tak ketinggalan potongan kucai diaduk saat terakhir.</string>
+    <string name="detail_kue_kantong_semar">Kue kantong semar merupakan makanan khas yang unik dari kota Singkawang. Untuk membuat kue kantong semar dibutuhkan tumbuhan kantong semar yang berukuran agak besar dan kecoklatan yang kemudian dicuci bersih. Pada bagian pinggir, kantong semar digunting sehingga terbentuk kantong yang rapi meskipun ukurannya tak sama.</string>
+    <string name="detail_kwetiau">Kwetiau khas Pontianak merupakan kwetiau yang cukup terkenal di Indonesia. Hidangan ini dibuat dengan bahan utama kwetiau ditumis dalam minyak goreng dengan bawang putih, bawang merah, daging sapi, daging ayam, udang goreng, kepiting atau irisan bakso, cabai, sawi putih, sawi, tomat, telur, dan sayuran lainnya yang ditambah dengan kecap manis. </string>
+    <string name="detail_lek_tau_swan">Lek tau suan adalah makanan yang terkenal sebagai salah satu jajanan pasar paling populer cocok dikonsumsi di pagi atau malam hari. Lek tau swan terbuat dari kacang hijau yang kulitnya sudah dikupas, dan dimasak dengan kuah kental bening. Kuah kental bening tersebut terbuat dari tepung tapioka lalu dicampurkan dengan gula dan pandan.
+        Lek tau swan biasanya akan dihidangkan bersama dengan Ca Kwee yang garing.</string>
+    <string name="detail_pengkang">Pengkang merupakan makan khas Kalimantan Barat yang juga dapat dengan mudah ditemukan di Kota Pontianak. Sedikit mirip dengan lemper di Jawa, Pengkang terbuat dari ketan atau disebut pulut oleh masyarakat Kalbar yang berisi udang ebi.
+        Dikemas dengan cara yang unik, dengan bungkus daun pisang berbentuk segitiga sama kaki yang dijepit dengan bambu.</string>
+    <string name="detail_sotong_pangkong">Sotong pangkong merupakan kuliner yang berbahan dasar daging cumi, namun diolah dengan cara yang berbeda. Sesuai dengan namanya, Sotong Pangkong merupakan kuliner yang berbahan dasar daging cumi, namun diolah dengan cara yang berbeda. Sebelum dimasak, cumi dijemur hingga kering kemudian dipanggang hingga matang, setelah dipanggang, daging cumi
+        dipukul hingga tekstur daging menjadi empuk dan tidak alot.</string>
+
+    <string name="cikcik">Cik Cik Periuk adalah lagu daerah dari daerah Kalimantan Barat tepatnya Kabupaten Sambas. Lagu ini tidak diketahui siapa penciptanya, tetapi menurut masyarakat Sambas lagu ini diciptakan oleh orang asli Dayak di Kalimantan Barat. Selain itu, lagu ini sudah ada sejak 150 tahun yang lalu.\nLirik:\nCik cik periuk belanga sumping dari Jawe\nDatang nek kecibok bawa kepiting dua ekok\nCik cik periuk belanga sumping dari Jawe\nDatang nek kecibok bawa kepiting dua ekok \nCak cak bur dalam belanga, picak idong gigi rongak\nSape ketawa dolok dipancung raje tunggal, hei!</string>
+    <string name="sungai_kapuas">Lagu Sungai Kapuas diciptakan oleh Paul Putra Frederick dan Yan G. Menurut penggalan liriknya, konon orang yang meminum air dari sungai kapuas tidak akan bisa melupakan daerah Kalimantan Barat.\nLirik:\nHei sampan laju \nSampan laju dari ilir sampai ke ulu \nSungai Kapuas \nSunggoh panjang dari dolo membelah kote \nHei tak disangke \nTak disangke dolo utan menjadi kote \nRamai pendudoknye \nPontianak name kotenye \nSungai Kapuas punye cerite \nBile kite minom ae nye \nBiar pon pegi jauh ke mane \nSunggoh susah na ngelupakannye \nHei Kapuas\nHei Kapuas\nHei Kapuas</string>
+    <string name="tanah_parenean">Lagu Tanah Parenean merupakan lagu suku Dayak yang liriknya menunjukkan rasa syukur akan tanah yang subur sehingga patut dijaga.\nLirik:\nTabantang luas \nka tangah binua \nNagari edo raya \nTuah Talino \nAhe ditanam \nIdupnya ramah \nMare paridup \nSiganap talino \nAmas intan, samua ada \nKa ai tanah, pamare Jubata \nPatut dijaga man di sukuri \nTanah parenean diri samua \nBinua Landak, binua Dayak \nSanggah Banyuke Behe \nMan Mampawah \nBa ahe Balangin, Banyadu Bamak \nSete nagari man sete tanah \nBinua Landak, binua Dayak \nSamih Mandor, Maranti Sompak Jalimpo \nBanangar Tikalokng Riapm Siname \nSeha Sapatukng, Bukit Batu Samabue \nBinua Landak, binua Dayak \nSanggah Banyuke Behe \nMan Mampawah \nBa Ahe Balangin, Banyadu Bamak \nSete nagari man sete tanah\nSete nagari man sete tanah\nSete nagari man sete tanah</string>
+    <string name="jubata">Lagu Jubata yang artinya Tuhan merupakan lagu yang berisi permohonan kepada Tuhan agar diberikan keselamatan. \nLirik:\nUdah saari saari agi \nNana badiapm, kami bajalatn \nTakadang jantu barang dah latih \nUbaatn barat niti maraga, nang manyak rintangan \nUbaatn barat niti maraga, nang manyak rintangan \nKa Kita Jubata kami bapadah \nKa Kita Jubata kami bapinta \nIrikng langkah kami oooo Jubata biar salama \nIrikng langkah kami oooo Jubata biar salama\nDangar doa ku Jubata nang adel \nJauhatn kami dari cobaan \nAntatlah kami man barakatNyu\nBiar kami sampe salamat ka dunia salama idup \nBiar kami sampe salamat ka dunia salama idup \n</string>
 </resources>
