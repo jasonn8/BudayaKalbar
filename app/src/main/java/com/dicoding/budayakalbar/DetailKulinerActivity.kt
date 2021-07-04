@@ -17,12 +17,10 @@ class DetailKulinerActivity : AppCompatActivity() {
 
         val bundle: Bundle? = intent.extras
         val bHeading = bundle!!.getString("heading")
-        val bDetail = bundle.getString("detail")
-        val bImage = bundle.getInt("imageId")
 
         heading.text = bHeading
-        detail.text = bDetail
-        image.setImageResource(bImage)
+        detail.text = bundle.getString("detail")
+        image.setImageResource(bundle.getInt("imageId"))
 
     }
 }

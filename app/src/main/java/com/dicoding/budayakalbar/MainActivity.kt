@@ -7,14 +7,20 @@ import android.view.View
 import androidx.cardview.widget.CardView
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
+
+    private lateinit var cardSuku: CardView
+    private lateinit var cardKuliner: CardView
+    private lateinit var cardLagu: CardView
+    private lateinit var cardKuis: CardView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val cardSuku: CardView = findViewById(R.id.cv_suku)
-        val cardKuliner: CardView = findViewById(R.id.cv_kuliner)
-        val cardLagu: CardView = findViewById(R.id.cv_lagu)
-        val cardKuis: CardView = findViewById(R.id.cv_kuis)
+        cardSuku = findViewById(R.id.cv_suku)
+        cardKuliner = findViewById(R.id.cv_kuliner)
+        cardLagu = findViewById(R.id.cv_lagu)
+        cardKuis = findViewById(R.id.cv_kuis)
 
         cardSuku.setOnClickListener(this)
         cardKuliner.setOnClickListener(this)

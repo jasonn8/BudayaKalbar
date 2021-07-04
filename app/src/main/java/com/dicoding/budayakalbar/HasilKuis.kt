@@ -7,12 +7,16 @@ import android.view.View
 import android.widget.TextView
 
 class HasilKuis : AppCompatActivity() {
+
+    private lateinit var hasil: TextView
+    private lateinit var nilai: TextView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_hasil_kuis)
 
-        val hasil: TextView = findViewById(R.id.hasil)
-        val nilai: TextView = findViewById(R.id.nilai)
+        hasil = findViewById(R.id.hasil)
+        nilai = findViewById(R.id.nilai)
 
         hasil.setText("Jawaban Benar: ${KuisActivity.benar}\nJawaban Salah: ${KuisActivity.salah}")
         nilai.setText("${KuisActivity.hasil}")

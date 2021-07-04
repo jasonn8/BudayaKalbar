@@ -6,49 +6,52 @@ import android.widget.ImageView
 import android.widget.TextView
 
 class DetailSukuActivity : AppCompatActivity() {
+
+    private lateinit var heading: TextView
+    private lateinit var detail: TextView
+    private lateinit var image: ImageView
+    private lateinit var pakaianAdat: TextView
+    private lateinit var detailPakaianAdat: TextView
+    private lateinit var imagePakaian: ImageView
+    private lateinit var senjata: TextView
+    private lateinit var detailSenjata: TextView
+    private lateinit var imageSenjata: ImageView
+    private lateinit var rumahAdat: TextView
+    private lateinit var detailRumahAdat: TextView
+    private lateinit var imageRumahAdat: ImageView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail_suku)
 
-        val heading: TextView = findViewById(R.id.heading)
-        val detail: TextView = findViewById(R.id.detail)
-        val image: ImageView = findViewById(R.id.image_heading)
-        val pakaianAdat: TextView = findViewById(R.id.pakaian_adat)
-        val detailPakaianAdat: TextView = findViewById(R.id.detail_pakaian_adat)
-        val imagePakaian: ImageView = findViewById(R.id.image_pakaian)
-        val senjata: TextView = findViewById(R.id.senjata)
-        val detailSenjata: TextView = findViewById(R.id.detail_senjata)
-        val imageSenjata: ImageView = findViewById(R.id.image_senjata_tradisional)
-        val rumahAdat: TextView = findViewById(R.id.rumah_adat)
-        val detailRumahAdat: TextView = findViewById(R.id.detail_rumah_adat)
-        val imageRumahAdat: ImageView = findViewById(R.id.image_rumah_adat)
+        heading = findViewById(R.id.heading)
+        detail = findViewById(R.id.detail)
+        image = findViewById(R.id.image_heading)
+        pakaianAdat = findViewById(R.id.pakaian_adat)
+        detailPakaianAdat = findViewById(R.id.detail_pakaian_adat)
+        imagePakaian = findViewById(R.id.image_pakaian)
+        senjata = findViewById(R.id.senjata)
+        detailSenjata = findViewById(R.id.detail_senjata)
+        imageSenjata = findViewById(R.id.image_senjata_tradisional)
+        rumahAdat = findViewById(R.id.rumah_adat)
+        detailRumahAdat = findViewById(R.id.detail_rumah_adat)
+        imageRumahAdat = findViewById(R.id.image_rumah_adat)
 
         val bundle: Bundle? = intent.extras
         val bHeading = bundle!!.getString("heading")
-        val bDetail = bundle.getString("detail")
-        val bImage = bundle.getInt("imageId")
-        val bPakaianAdat = bundle.getString("pakaian")
-        val bDetailPakaianAdat = bundle.getString("detailPakaian")
-        val bImagePakaian = bundle.getInt("imagePakaian")
-        val bSenjata = bundle.getString("senjata")
-        val bDetailSenjata = bundle.getString("detailSenjata")
-        val bimageSenjata = bundle.getInt("imageSenjata")
-        val bRumahAdat = bundle.getString("rumah")
-        val bDetailRumahAdat = bundle.getString("detailRumah")
-        val bImageRumahAdat = bundle.getInt("imageRumah")
 
         heading.text = bHeading
-        detail.text = bDetail
-        image.setImageResource(bImage)
-        pakaianAdat.text = bPakaianAdat
-        detailPakaianAdat.text = bDetailPakaianAdat
-        imagePakaian.setImageResource(bImagePakaian)
-        senjata.text = bSenjata
-        detailSenjata.text = bDetailSenjata
-        imageSenjata.setImageResource(bimageSenjata)
-        rumahAdat.text = bRumahAdat
-        detailRumahAdat.text = bDetailRumahAdat
-        imageRumahAdat.setImageResource(bImageRumahAdat)
+        detail.text = bundle.getString("detail")
+        image.setImageResource(bundle.getInt("imageId"))
+        pakaianAdat.text = bundle.getString("pakaian")
+        detailPakaianAdat.text = bundle.getString("detailPakaian")
+        imagePakaian.setImageResource(bundle.getInt("imagePakaian"))
+        senjata.text = bundle.getString("senjata")
+        detailSenjata.text = bundle.getString("detailSenjata")
+        imageSenjata.setImageResource(bundle.getInt("imageSenjata"))
+        rumahAdat.text = bundle.getString("rumah")
+        detailRumahAdat.text = bundle.getString("detailRumah")
+        imageRumahAdat.setImageResource(bundle.getInt("imageRumah"))
 
 
     }
